@@ -1,0 +1,9 @@
+<script>
+    var theme = document.getElementById('root');
+    var themeName = theme.className;
+    var fbTheme = "light";
+    if(themeName.localeCompare("theme__dark") == 0){
+        fbTheme = "dark";
+    }
+    document.write('<div class="fb-comments" data-href="'+location.href+'" data-numposts="5" data-width="100%" data-colorscheme="'+fbTheme+'"></div>');
+</script>

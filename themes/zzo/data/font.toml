@@ -1,0 +1,7 @@
+#title_font = "\"Montserrat\", sans-serif"
+title_font = "\"Nunito\", sans-serif"
+content_font = "\"Muli\", sans-serif"
+# content_font = "\"Merriweather\", serif"
+# content_font = "\"League Gothic\", sans-serif"
+cursive_font = "\"Nunito\", sans-serif"
+#cursive_font = "\"Courgette\", cursive"
